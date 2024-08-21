@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "login": "Javan",
+      "password": "123123p"
+    },
+    {
+      "id": "2",
+      "login": "Luiz",
+      "password": "321321p"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "name": "Teclado",
+      "und": "122",
+      "value": 50.99
+    },
+    {
+      "id": "a0dd",
+      "name": "Fones",
+      "value": 100
+    },
+    {
+      "id": "4ce9",
+      "name": "Cabo USB",
+      "value": 89
+    },
+    {
+      "id": "d1b5",
+      "name": "Cabo USB",
+      "value": 25
+    },
+    {
+      "id": "5b0e",
+      "name": "Cabo USB",
+      "value": "150"
+    }
+  ],
+  "orders": [
+    {
+      "id": "01a0",
+      "data": "2024-08-21T17:38:30.668Z"
+    }
+  ]
+}
